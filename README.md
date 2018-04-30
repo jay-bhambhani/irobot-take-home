@@ -3,7 +3,10 @@
 ## Instructions
 You will require Transcrypt (for more information please see https://github.com/elasticdog/transcrypt).
 Please ask project author for password to decrypt config/secrets.json, then run
-transcrypt -c aes-256-cbc -p '<the password>'
+
+```
+transcrypt -c aes-256-cbc -p "<the password>""
+```
 
 .To install please simply pip install the repo
 
